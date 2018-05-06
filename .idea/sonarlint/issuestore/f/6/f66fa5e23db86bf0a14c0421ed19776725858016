@@ -1,0 +1,12 @@
+
+wsquid:S00116"URename this field "btn_phone1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áú›äıÿÿÿÿ8Ò«¾±,
+rsquid:S00116"URename this field "btn_phone2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·‘×…8Ò«¾±,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÒÚ¤Òùÿÿÿÿ8Ò«¾±,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‡Ë·ıÿÿÿÿ8Ò«¾±,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‡Ë·ıÿÿÿÿ8Ò«¾±,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‚±Üî8Ò«¾±,
+wsquid:S1192"VDefine a constant instead of duplicating this literal "æ‹¨æ‰“ç”µè¯å¤±è´¥ï¼" 3 times.(ºÙôğüÿÿÿÿ8Ò«¾±,
+wsquid:S00116"URename this field "btn_phone3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã—‘ùşÿÿÿÿ8Ò«¾±,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(åÉÎ†8Ò«¾±,
+isquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Ìİs8Ò«¾±,
+nsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(É¬ñ=8Ò«¾±,
