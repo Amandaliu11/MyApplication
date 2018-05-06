@@ -18,6 +18,9 @@ import java.util.List;
  *
  * todo: 获取上次拨打电话的sim卡
  *
+ * 检查手机上有几个可用的SIM卡 getAvailableSimCardCount(Context context)
+ * 获取slotId对应的PhoneAccountHandle getPhoneAccountHandle(Context context,int slotId)
+ *
  */
 public class SIMUtils {
     /**

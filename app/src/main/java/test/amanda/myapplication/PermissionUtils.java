@@ -8,6 +8,12 @@ import android.support.v4.content.ContextCompat;
 
 /**
  * 工具类：权限
+ *
+ * 检查是否有权限 hasPermission(Context context, String permission)
+ * 检查是否有一组权限 hasPermission(Context context,String[] permissions)
+ * 申请权限：弹框提示用户是否允许权限 requestPermission(Activity activity, String[] persions, int requestCode)
+ * 检查是否有权限,如果没有则申请权限 hasPermissionAndRequest(Activity activity, String permission, int requestCode)
+ * 检查是否有一组权限,如果没有则申请权限 hasPermissionAndRequest(Activity activity, String[] permissions, int requestCode)
  */
 public class PermissionUtils {
     /**

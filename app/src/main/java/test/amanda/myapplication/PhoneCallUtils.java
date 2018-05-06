@@ -15,6 +15,13 @@ import java.lang.reflect.Method;
 
 /**
  * 工具类：拨打电话
+ *
+ * todo: 拨打电话（使用反射），尝试使用slot的SIM卡拨打电话
+ *
+ * 拨打电话（使用intent方法）intentCall(Context context,String tel)
+ * 拨打电话（使用intent方法）,尝试使用slot的SIM卡拨打电话  intentCall(Context context,String tel, int slot)
+ * 拨打电话（使用反射）refectCall(Context context,String tel)
+ * 挂断电话（使用反射）endCall(Context context)
  */
 public class PhoneCallUtils {
 
